@@ -1,2 +1,2 @@
 # OpenMP-CUDA-Parallel
-This is pratice code for OpenMP and CUDA 
+This is practice code for OpenMP and CUDA 
