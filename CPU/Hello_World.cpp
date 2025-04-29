@@ -6,6 +6,6 @@ void hello()
 }
 int main()
 {
-    std::thread t(hello);   3
+    std::thread t(hello);   3;
     t.join();
 }
